@@ -1,0 +1,40 @@
+_repo: Venere-ed-Imene-al-tribunale-della-penitenza--manuale-dei-confessori_16920
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Gnocchi-Viani, Osvaldo
+    alias: Viani, Osvaldo Gnocchi-
+    birthdate: 1837
+    deathdate: 1917
+    gutenberg_agent_id: '7020'
+    url: http://www.gutenberg.org/2009/agents/7020
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bouvier, J. B. (Jean Baptiste)
+    alias: Bouvier, Jean Baptiste
+    birthdate: 1783
+    deathdate: 1854
+    gutenberg_agent_id: '7019'
+    url: http://www.gutenberg.org/2009/agents/7019
+    wikipedia: http://en.wikipedia.org/wiki/Jean-Baptiste_Bouvier
+description: ''
+gutenberg_bookshelf: IT Religione e Spiritualità
+gutenberg_issued: '2005-10-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16920'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BX'
+- !lcsh 'Sex -- Religious aspects'
+- !lcsh 'Confession'
+- !lcc 'HQ'
+- !lcsh 'Sexual ethics'
+title: 'Venere ed Imene al tribunale della penitenza: manuale dei confessori'
+url: http://www.gutenberg.org/ebooks/16920
