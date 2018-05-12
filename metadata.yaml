@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7019
     wikipedia: http://en.wikipedia.org/wiki/Jean-Baptiste_Bouvier
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16920#Venere-ed-Imene-al-tribunale-della-penitenza--manuale-dei-confessori
 gutenberg_bookshelf: IT Religione e Spiritualità
 gutenberg_issued: '2005-10-23'
 gutenberg_type: Text
